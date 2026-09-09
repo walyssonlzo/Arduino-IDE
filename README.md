@@ -12,7 +12,7 @@ Este projeto utiliza a plataforma Arduino para monitorar a intensidade luminosa 
 
 ## 👥 Integrantes da Equipe
 
-- **Letícia Haislna** - Instrutora
+- **Letícia Halana** - Instrutora
 - **Walysson Henryque** - Aluno
 - **Mateus Alves** - Aluno
 - **Dabliele** - Aluno

@@ -32,8 +32,11 @@ Este projeto utiliza a plataforma Arduino para monitorar a intensidade luminosa 
 | Jumpers Macho-Macho | Vários | Conexões do circuito |
 
 ---
+## 📸 Circuito em Funcionamento
 
+![Circuito em funcionamento](./circuito-1.jpeg)
 
+---
 ## 💻 Trecho do Código (Sensores → INPUT)
 
 O trecho de código abaixo exemplifica a lógica do projeto: o sinal analógico lido pelo sensor funciona como entrada (`INPUT`).

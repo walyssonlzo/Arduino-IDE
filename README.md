@@ -33,13 +33,6 @@ Este projeto utiliza a plataforma Arduino para monitorar a intensidade luminosa 
 
 ---
 
-## 📸 Circuito em Funcionamento
-
-![Circuito em funcionamento](./IMG_0318.jpeg)
-
-![Circuito conectado ao Arduino](circuito-2.png)
-
----
 
 ## 💻 Trecho do Código (Sensores → INPUT)
 
